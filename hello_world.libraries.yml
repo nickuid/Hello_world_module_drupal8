@@ -1,0 +1,4 @@
+my-library:
+  css:
+    base:
+      css/hello_world.module.css: {}

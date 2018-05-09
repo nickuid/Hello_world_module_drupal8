@@ -1,0 +1,7 @@
+name: 'Hello world'
+type: module
+description: 'My Awesome Module'
+core: 8.x
+package: 'Custom'
+libraries:
+  hello_world/my-library
